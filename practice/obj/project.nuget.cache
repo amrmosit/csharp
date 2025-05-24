@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ENrZoi+0qPY=",
+  "success": true,
+  "projectFilePath": "/Users/amrmostafa/Coding Projects/C#/practice/practice.csproj",
+  "expectedPackageFiles": [
+    "/Users/amrmostafa/.nuget/packages/pastel/6.0.1/pastel.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

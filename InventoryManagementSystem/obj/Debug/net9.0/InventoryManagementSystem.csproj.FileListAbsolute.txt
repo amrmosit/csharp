@@ -1,0 +1,14 @@
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfoInputs.cache
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfo.cs
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.csproj.CoreCompileInputs.cache
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.deps.json
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.runtimeconfig.json
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.dll
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.pdb
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.dll
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/refint/InventoryManagementSystem.dll
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.pdb
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.genruntimeconfig.cache
+/Users/amrmostafa/Coding Projects/C#/InventoryManagementSystem/obj/Debug/net9.0/ref/InventoryManagementSystem.dll

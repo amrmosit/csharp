@@ -1,0 +1,14 @@
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/bin/Debug/net9.0/InhPolymorphism
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/bin/Debug/net9.0/InhPolymorphism.deps.json
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/bin/Debug/net9.0/InhPolymorphism.runtimeconfig.json
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/bin/Debug/net9.0/InhPolymorphism.dll
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/bin/Debug/net9.0/InhPolymorphism.pdb
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/InhPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/InhPolymorphism.AssemblyInfoInputs.cache
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/InhPolymorphism.AssemblyInfo.cs
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/InhPolymorphism.csproj.CoreCompileInputs.cache
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/InhPolymorphism.dll
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/refint/InhPolymorphism.dll
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/InhPolymorphism.pdb
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/InhPolymorphism.genruntimeconfig.cache
+/Users/amrmostafa/Coding Projects/C#/InhPolymorphism/obj/Debug/net9.0/ref/InhPolymorphism.dll
