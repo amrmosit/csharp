@@ -474,7 +474,7 @@ public class Program
     
 }
 */
-
+/*
 using System;
 public class Program
 {
@@ -518,8 +518,48 @@ public class Program
         Console.WriteLine("Tasks completed!.");
     }
 }
+*/
+// Another Async and await example
 
-// Note: To run this code, you need to have the .NET SDK installed and create a new console application.
+using System;
+
+public class Program
+{
+    public static async Task PerformLongOperationAsync()
+    {
+        Console.WriteLine("\nOperation started....");
+        await Task.Delay(3000); // Simulate a long operation (3 seconds)
+        Console.WriteLine("Operation completed successfully!");
+    }
+        public static async Task PerformLongOperationAsync2()
+    {
+        try
+        {
+            Console.WriteLine("\nOperation 2 started....");
+            await Task.Delay(5000); // Simulate a long operation (3 seconds)
+            // Throw new Exception("Simulated error in operation 2."); // Simulate an error
+            //throw new Exception("Simulated error in operation 2.");
+            Console.WriteLine("Operation 2 completed successfully!");
+
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+        }
+
+    }
+    public static void Main(string[] args)
+    {
+        Task.Run(async () =>
+        {
+            await Task.WhenAll(
+                PerformLongOperationAsync(),
+                PerformLongOperationAsync2()
+            );
+        }).Wait();
+        Console.WriteLine("Main method completed.\n");
+    }
+}
 
 
 
