@@ -1,0 +1,15 @@
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/LibraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/LibraryManagmentSystem.AssemblyInfoInputs.cache
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/LibraryManagmentSystem.AssemblyInfo.cs
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/LibraryManagmentSystem.sourcelink.json
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/bin/Debug/net9.0/LibraryManagmentSystem
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/bin/Debug/net9.0/LibraryManagmentSystem.deps.json
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/bin/Debug/net9.0/LibraryManagmentSystem.runtimeconfig.json
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/bin/Debug/net9.0/LibraryManagmentSystem.dll
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/bin/Debug/net9.0/LibraryManagmentSystem.pdb
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/LibraryManagmentSystem.dll
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/refint/LibraryManagmentSystem.dll
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/LibraryManagmentSystem.pdb
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/LibraryManagmentSystem.genruntimeconfig.cache
+/Users/amrmostafa/Coding Projects/C#/LibraryManagmentSystem/obj/Debug/net9.0/ref/LibraryManagmentSystem.dll
