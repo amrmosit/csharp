@@ -175,8 +175,16 @@ public class Program
     // Limit Borrowing
     // Add a feature that tracks how many books a user has borrowed.
     // Limit the number of books to 3 at a time.
+    public static List<Book> borrowedBooks = new List<Book>();
+
     public static void BorrowBook(string title, List<Book> books)
     {
+        if (borrowedBooks.Count >= 3)
+        {
+            Console.WriteLine("Borrowing limit reached. Return a book before borrowing another.");
+            return;
+        }
+
         var book = books.FirstOrDefault(b => b.Title.Equals(title, StringComparison.OrdinalIgnoreCase));
         if (book != null)
         {
@@ -187,6 +195,7 @@ public class Program
             else
             {
                 book.IsCheckedOut = true;
+                borrowedBooks.Add(book); // Track borrowed book
                 Console.WriteLine($"Book '{title}' has been checked out.");
             }
         }

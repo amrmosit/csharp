@@ -1,0 +1,15 @@
+/Users/amrmostafa/Coding Projects/C#/JsonExample/bin/Debug/net9.0/JsonExample
+/Users/amrmostafa/Coding Projects/C#/JsonExample/bin/Debug/net9.0/JsonExample.deps.json
+/Users/amrmostafa/Coding Projects/C#/JsonExample/bin/Debug/net9.0/JsonExample.runtimeconfig.json
+/Users/amrmostafa/Coding Projects/C#/JsonExample/bin/Debug/net9.0/JsonExample.dll
+/Users/amrmostafa/Coding Projects/C#/JsonExample/bin/Debug/net9.0/JsonExample.pdb
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.AssemblyInfoInputs.cache
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.AssemblyInfo.cs
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.csproj.CoreCompileInputs.cache
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.sourcelink.json
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.dll
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/refint/JsonExample.dll
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.pdb
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.genruntimeconfig.cache
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/ref/JsonExample.dll
