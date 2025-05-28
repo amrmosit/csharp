@@ -13,3 +13,6 @@
 /Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.pdb
 /Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.genruntimeconfig.cache
 /Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/ref/JsonExample.dll
+/Users/amrmostafa/Coding Projects/C#/JsonExample/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExample.csproj.AssemblyReference.cache
+/Users/amrmostafa/Coding Projects/C#/JsonExample/obj/Debug/net9.0/JsonExam.8DACB2F8.Up2Date
